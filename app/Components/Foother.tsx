@@ -9,8 +9,8 @@ type propiedades={
 const Foother = (props:propiedades) => {
   return (
     <View style={styles.container}>
-      <Text>{props.fecha}</Text>
-      <Text>{props.grupo}</Text>
+      <Text>{props.fecha}   </Text>
+      <Text>   {props.grupo}</Text>
     </View>
   )
 }
