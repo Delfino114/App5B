@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, ActivityIndicator, Alert } from 'react-native';
-import Boton from './app/Components/Boton';
+import Boton from './app-temp/Components/Boton';
 import AntDesign from '@expo/vector-icons/AntDesign';
 
 export default function App() {
